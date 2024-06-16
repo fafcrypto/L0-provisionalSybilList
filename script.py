@@ -18,4 +18,4 @@ def split_csv(file_path, line_count):
     print(f"Le fichier a été divisé en {number_of_files} parties.")
 
 # Usage
-split_csv('provisionalSybilList.csv', 500000)  # Modifier avec votre chemin de fichier et le nombre de lignes par fichier
+split_csv('provisionalSybilList.csv', 400000)  # Modifier avec votre chemin de fichier et le nombre de lignes par fichier
